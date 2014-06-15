@@ -2,8 +2,8 @@
 //  AppDelegate.h
 //  Yelp
 //
-//  Created by Theofanis Pantelides on 6/15/14.
-//  Copyright (c) 2014 theo. All rights reserved.
+//  Created by Timothy Lee on 3/21/14.
+//  Copyright (c) 2014 codepath. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
@@ -12,6 +12,4 @@
 
 @property (strong, nonatomic) UIWindow *window;
 
-
 @end
-

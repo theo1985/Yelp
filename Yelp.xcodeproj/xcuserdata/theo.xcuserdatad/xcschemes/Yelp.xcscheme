@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "E41CB358194E5DDE007B63AA"
+               BlueprintIdentifier = "42FD6C4618DC286A000BF2B9"
                BuildableName = "Yelp.app"
                BlueprintName = "Yelp"
                ReferencedContainer = "container:Yelp.xcodeproj">
@@ -32,7 +32,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "E41CB368194E5DDE007B63AA"
+               BlueprintIdentifier = "42FD6C6118DC286B000BF2B9"
                BuildableName = "YelpTests.xctest"
                BlueprintName = "YelpTests"
                ReferencedContainer = "container:Yelp.xcodeproj">
@@ -42,7 +42,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "E41CB358194E5DDE007B63AA"
+            BlueprintIdentifier = "42FD6C4618DC286A000BF2B9"
             BuildableName = "Yelp.app"
             BlueprintName = "Yelp"
             ReferencedContainer = "container:Yelp.xcodeproj">
@@ -61,7 +61,7 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "E41CB358194E5DDE007B63AA"
+            BlueprintIdentifier = "42FD6C4618DC286A000BF2B9"
             BuildableName = "Yelp.app"
             BlueprintName = "Yelp"
             ReferencedContainer = "container:Yelp.xcodeproj">
@@ -79,7 +79,7 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "E41CB358194E5DDE007B63AA"
+            BlueprintIdentifier = "42FD6C4618DC286A000BF2B9"
             BuildableName = "Yelp.app"
             BlueprintName = "Yelp"
             ReferencedContainer = "container:Yelp.xcodeproj">
